@@ -6,7 +6,7 @@ Shadfin is an independent, hobbyist project and is not officially affiliated wit
 
 ## What is Shadfin?
 
-Shadfin is a sleek, modern, and customizable frontend for Jellyfin, built with Nuxt 3, Shadcn-Vue, and Tailwind CSS. It aims to provide a more intuitive and visually appealing user experience.
+Shadfin is a sleek, modern, and customizable frontend for Jellyfin, built with Nuxt 3, Shadcn-Vue, and Tailwind CSS. It aims to provide an intuitive and visually appealing user experience.
 
 ## Why Shadfin?
 
